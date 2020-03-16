@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "896560374206",
+    "firebase_url": "https://customer-review-app-db-a8e3f.firebaseio.com",
+    "project_id": "customer-review-app-db-a8e3f",
+    "storage_bucket": "customer-review-app-db-a8e3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896560374206:android:350c63ac4cb7231ed259ef",
+        "android_client_info": {
+          "package_name": "com.example.review_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896560374206-mtbett9ogv4po2539rmtgjkgg7ge3bbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpBRkcq7NZNA_7UAq6_JDpx50M2HXMQsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896560374206-mtbett9ogv4po2539rmtgjkgg7ge3bbu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
